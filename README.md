@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Dylan Ma <img align='right' src='https://github-readme-stats.vercel.app/api?username=machuangtao&show_icons=true&theme=cobalt' width='380px'>
 
 <!--
 **machuangtao/machuangtao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently a PhD student at Eötvös Loránd University (ELTE).
+- 🔭 My research interests include: data integration, schema mapping, knowledge representation, ontology learning, business process integration, and enterprise knowledge graph.
+- 📫 HomePage: [https://machuangtao.web.elte.hu](https://machuangtao.web.elte.hu).
+- 📺 My Blog: [machuangtao.github.io/blog](https://machuangtao.github.io/blog).
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/machuangtao)
+![Vistors](https://komarev.com/ghpvc/?username=machuangtao)
