@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently a PhD student at Eötvös Loránd University (ELTE).
 - 🔭 My research interests include: data integration, schema mapping, knowledge representation, ontology learning, business process integration, and enterprise knowledge graph.
+- 👯 I’m looking for the post-doc position on the topic of data and knolwedge management, e.g., enterprise knolwedge graph, data integration and schema matching, knolwedge enhancement, etc.
 - 📫 HomePage: [https://machuangtao.web.elte.hu](https://machuangtao.web.elte.hu).
-- 📺 My Blog: [machuangtao.github.io/blog](https://machuangtao.github.io/blog).
+- 📺 My Blog: [https://machuangtao.github.io/blog](https://machuangtao.github.io/blog).
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/machuangtao)
 ![Vistors](https://komarev.com/ghpvc/?username=machuangtao)
