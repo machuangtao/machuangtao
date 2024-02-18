@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently aI am a postdoctoral researcher at Department of Computer Science of Aalborg University.
+- 🌱 I’m currently a postdoctoral researcher at Department of Computer Science of Aalborg University.
 - 🔭 My research interests include: data integration, schema mapping, knowledge representation, ontology learning, business process integration, and enterprise knowledge graph.
 - 👯 I’m looking for the collaboration on the topic of data and knolwedge management, e.g., enterprise knolwedge graph, data integration and schema matching, knolwedge enhancement, etc.
 - 📫 HomePage: [https://machuangtao.github.io](https://machuangtao.github.io).
