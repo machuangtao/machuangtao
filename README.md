@@ -1,4 +1,4 @@
-### Hi there 👋 I am Chuangtao Ma (Dylan) <img align='right' src='https://github-readme-stats.vercel.app/api?username=machuangtao&show_icons=true&theme=cobalt' width='380px'>
+### Hi there 👋 I am Chuangtao(Dylan) Ma 
 
 <!--
 **machuangtao/machuangtao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently a postdoctoral researcher at Department of Computer Science of Aalborg University.
-- 🔭 My research interests include: data integration, schema mapping, knowledge representation, ontology learning, and knowledge graph.
-- 👯 I’m looking for the collaboration on the topic of data and knolwedge management, e.g., knolwedge graph, data integration and schema matching, knolwedge enhancement and augmentation, etc.
+- 🌱 I’m currently a postdoctoral researcher at the Department of Computer Science of Aalborg University.
+- 🔭 My research interests include: data integration, schema mapping, knowledge representation, ontology learning, and knowledge graphs.
+- 👯 I’m looking for collaboration on the topic of data and knowledge management, e.g., knowledge graph, data integration, ontology learning, knowledge enhancement and augmentation, etc.
 - 📫 HomePage: [https://machuangtao.github.io](https://machuangtao.github.io).
 - 📺 My Blog: [https://machuangtao.github.io/blog](https://machuangtao.github.io/blog).
 
