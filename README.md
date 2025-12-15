@@ -1,4 +1,4 @@
-### Hi there 👋 I am Chuangtao(Dylan) Ma 
+### Hi there 👋 I am Chuangtao Ma 
 
 <!--
 **machuangtao/machuangtao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
